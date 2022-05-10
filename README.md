@@ -1,23 +1,18 @@
 # 류하영 포트폴리오
 ## 📌Intro
+성공보다 '성장'에 더 가치를 두는 개발자 류하영입니다.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+## 📌Contact
+- 이메일: rhay053@gmail.com
+- 블로그: <a href="https://yongjalife.tistory.com/"></a>
+- 깃허브: <a href="https://github.com/rhay053/"></a>
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## 📌Projects
+1. pawintail 퍼인테일(팀 프로젝트)
+반려동물 새벽배송 쇼핑몰 
+제작기간: 2022.03.28-2022.04.21
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
-## 📌Intro
-
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
-
-## 📌Intro
+기술스택: 
+Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
+Oracle DBMS / Spring Security / Thymeleaf
+프로젝트 상세정보 보기
