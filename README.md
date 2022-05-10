@@ -4,15 +4,15 @@
 
 ## 📌Contact
 - 이메일: rhay053@gmail.com
-- 블로그: <a href="https://yongjalife.tistory.com/"></a>
-- 깃허브: <a href="https://github.com/rhay053/"></a>
+- 블로그: https://yongjalife.tistory.com/
+- 깃허브: https://github.com/rhay053/
 
 ## 📌Projects
-1. pawintail 퍼인테일(팀 프로젝트)
-반려동물 새벽배송 쇼핑몰 
+1. pawintail 퍼인테일(팀 프로젝트)<br>
+반려동물 새벽배송 쇼핑몰<br> 
 제작기간: 2022.03.28-2022.04.21
 
 기술스택: 
-Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
-Oracle DBMS / Spring Security / Thymeleaf
+Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL<br>
+Oracle DBMS / Spring Security / Thymeleaf<br>
 프로젝트 상세정보 보기
