@@ -1,6 +1,6 @@
 # 류하영 포트폴리오
 ## 📌Intro
-<img src="![github](https://user-images.githubusercontent.com/95905063/167608968-772e9a17-9c9b-4de8-b632-f377a50d31fe.jpeg)" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/95905063/167608968-772e9a17-9c9b-4de8-b632-f377a50d31fe.jpeg" width="150" height="200"/>
 성공보다 '성장'에 더 가치를 두는 개발자 류하영입니다.
 
 ## 📌Contact
