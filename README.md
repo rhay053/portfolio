@@ -22,4 +22,4 @@
 기술스택: 
 Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL<br>
 Oracle DBMS / Spring Security / Thymeleaf<br>
-프로젝트 상세정보 보기
+프로젝트 상세정보 보기(https://github.com/rhay053/pawintail)
