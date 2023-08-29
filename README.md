@@ -1,14 +1,3 @@
-# 류하영 포트폴리오
-성공보다 '성장'에 더 가치를 두는 개발자 류하영입니다.
-
-## 📌 Intro
-<img src="https://user-images.githubusercontent.com/95905063/167608968-772e9a17-9c9b-4de8-b632-f377a50d31fe.jpeg" width="150" height="200"/>
-안녕하세요! 신입 개발자 류하영입니다!<br>
-꾸준함과 기록의 가치를 알기 때문에<br>
-기술 블로그를 운영하고 있습니다.<br>
-산책🚶‍♀️과 커피☕️를 좋아합니다.
-
-
 ## 📌 Contact
 - 이메일: rhay053@gmail.com
 - 블로그: https://yongjalife.tistory.com/
