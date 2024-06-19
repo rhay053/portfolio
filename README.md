@@ -1,6 +1,5 @@
 ## 📌 Contact
 - 이메일: rhay053@gmail.com
-- 블로그: https://yongjalife.tistory.com/
 - 깃허브: https://github.com/rhay053/
 
 ## 📌 Projects
